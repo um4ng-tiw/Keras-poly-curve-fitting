@@ -6,6 +6,6 @@ The notebook also has some markdown describing very common terminology that one 
 
 >_'Neurons that fire together wire together'_ - Donald Hebb
 
-This notebook has been created for assignments, and beginners who would like to dabble into **Deep Learning** using the Keras library, however some knowledge of basic terminology and sound knowledge of Python is highly suggested. 
+This notebook has been created for assignments, and beginners who would like to dabble into **Deep Learning** using the Keras library, however some knowledge of basic terminology and sound knowledge of Python is highly suggested. Any suggestions are welcomed. 
 
 
